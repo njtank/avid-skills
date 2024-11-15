@@ -9,14 +9,14 @@ Config.SkillThresholds = {
 
 -- Reward thresholds with additional levels in increments of 5
 Config.RewardLevels = {
-    { level = 5, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 10, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 15, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 20, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 25, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 30, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 35, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 40, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 45, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" },
-    { level = 50, item = "reward_box", message = "You have unlocked the Reward Box for Stamina!" }
+    { level = 5, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 10, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 15, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 20, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 25, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 30, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 35, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 40, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 45, item = "reward_box", message = "You have unlocked the Reward Box!" },
+    { level = 50, item = "reward_box", message = "You have unlocked the Reward Box!" }
 }
