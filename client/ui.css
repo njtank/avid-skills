@@ -1,0 +1,35 @@
+#skill-ui {
+  width: 300px;
+  padding: 10px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 10px;
+  border: 3px solid #66d9e8; /* Border color set to #66d9e8 */
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+#skill-ui h3 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#stamina-skill, #driving-skill, #shooting-skill {
+  margin-bottom: 15px;
+}
+
+span {
+  color: #66d9e8;  /* Set the text color for skill levels */
+}
+
+.progress-bar {
+  width: 100%;
+  height: 20px;
+  background-color: #444;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.progress {
+  height: 100%;
+  background-color: #00ff00;
+}
