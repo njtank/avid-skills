@@ -65,7 +65,7 @@ Players will be given a `reward_box` when they reach specific skill milestones, 
 - Players can check their current skill progress through a custom UI, which displays the skill levels for Stamina, Shooting, and Driving.
 - The skill progress can also be checked via a radial menu event that opens the UI.
 
-- **Events **:  
+### Events 
   ```lua
   TriggerEvent('avid-skills:incrementStamina', playerId)
   TriggerEvent('avid-skills:incrementDriving', playerId)
