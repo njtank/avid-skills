@@ -13,6 +13,10 @@
 - UI for players to check their current skill levels.
 - SQL integration to store skill data and rewards in a MySQL database.
 
+## Dependicies 
+- ox_inventory (https://github.com/overextended/ox_inventory)
+- oxmysql (https://github.com/overextended/oxmysql)
+
 ## Installation
 
 1. **Download the Resource**
