@@ -1,3 +1,5 @@
+![Avid_RP_No_Text-removebg-preview](https://github.com/user-attachments/assets/932d50f5-21e9-4fb8-b9b4-b4a00ca409f7)
+
 # avid-skills
 
 `avid-skills` is a FiveM resource that tracks player skills in three areas: Stamina, Shooting, and Driving. Players earn rewards as they progress in these skills over time. This script integrates with `ox_inventory` to provide reward items and allows players to check their skill progression through an in-game UI and radial menu.
